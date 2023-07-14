@@ -7,7 +7,7 @@ class Solution(object):
 
         s = 0 #slow pointer -> to buy
         f = 1 #fast pointer -. to sell
-        
+
         maxProfit = 0
 
         while(f < len(prices)):
@@ -21,4 +21,8 @@ class Solution(object):
                 
             f += 1
 
-        return maxProfit
+        return 
+    
+
+p = {5:6}
+print(p[5])
