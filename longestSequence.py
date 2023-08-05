@@ -24,4 +24,4 @@ def lengthOfLongestSubstring(self, s: str) -> int:
 
             res = max(res, r - l + 1)
 
-        return lengthOfLon
+        return res
