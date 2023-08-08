@@ -7,4 +7,5 @@
 5. On the 16th i solved a queston on Longest non continous substring this is the problem link -> https://leetcode.com/problems/longest-substring-without-repeating-characters/
 6. Today 17th of july i solved a question on medain of two sorted array this is the link -> https://leetcode.com/problems/median-of-two-sorted-arrays
 7. Todays problem 24th of july was on longest palidrome substring,this is the link -> https://leetcode.com/problems/longest-palindromic-substring
- 
+8. Today's problem is on reversing an integer this is the link -> https://leetcode.com/problems/reverse-integer/
+9. Today's problem on converting integer to roman this is the link -> https://leetcode.com/problems/roman-to-integer/
